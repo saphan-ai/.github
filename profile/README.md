@@ -21,12 +21,12 @@ ones, tests that prove something, and instructions you can trust. Each of these 
 
 - **[Discover](https://github.com/saphan-ai/discover)**: reads a repository **without changing it** and proves afterwards that
   it changed nothing. It is the first step before any agent touches code it did not write.
-- **[Mocks Studio](https://github.com/saphan-ai/mocks-studio)**: free mock systems (mail, file storage, a user directory,
+- **[Mock Studio](https://github.com/saphan-ai/mock-studio)**: free mock systems (mail, file storage, a user directory,
   Kubernetes and more) that agents, tests and skills can work against **instead of the real thing**, with an open standard
   and a conformance suite for writing your own.
-- **[Tests Studio](https://github.com/saphan-ai/tests-studio)**: an open standard for reporting a test run from **the framework
+- **[Test Studio](https://github.com/saphan-ai/test-studio)**: an open standard for reporting a test run from **the framework
   you already use**, so results from different tools can be collected, compared and trusted.
-- **[Skills Studio](https://github.com/saphan-ai/skills-studio)**: an open format for agent skills, with a fingerprint and a
+- **[Skill Studio](https://github.com/saphan-ai/skill-studio)**: an open format for agent skills, with a fingerprint and a
   signature you can check offline. **Trust the instructions your agents follow, and be able to show why.**
 
 Each repository says what works today and what is still being built.
